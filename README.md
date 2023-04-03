@@ -10,7 +10,7 @@ Three Jupyter Notebooks are included:
 ## Table of Contents
 
 - [Installation](#installation)
-- [Example Images](#wxample images)
+- [Example Images](#example images)
 
 ## Installation
 
