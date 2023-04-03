@@ -17,6 +17,8 @@ Three Jupyter Notebooks are included:
 Google Colab is all you need!
 
 ## Example Images
-
+Evil to Stupid Cats
 ![Teaser image](doc/cat-steering-teaser.png)
+
+Human Face to Anime Face
 ![Teaser image2](doc/human-anime-teaser.png)
