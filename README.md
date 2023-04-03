@@ -18,4 +18,4 @@ Google Colab is all you need!
 
 ## Example Images
 
-![Teaser image]([ImageGANs/docs/cat-steering-teaser.png](https://github.com/BeichenXie/ImageGANs/blob/main/doc/cat-steering-teaser.png?raw=true))
+![Teaser image](doc/cat-steering-teaser.png)
