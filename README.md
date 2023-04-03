@@ -10,8 +10,12 @@ Three Jupyter Notebooks are included:
 ## Table of Contents
 
 - [Installation](#installation)
+- [Example Images](#Example Images)
 
 ## Installation
 
 Google Colab is all you need!
 
+## Example Images
+
+![Teaser image](./docs/human-anime-teaser.png)
