@@ -18,4 +18,4 @@ Google Colab is all you need!
 
 ## Example Images
 
-![Teaser image](./docs/cat-steering-teaser.png)
+![Teaser image](ImageGANs/docs/cat-steering-teaser.png)
