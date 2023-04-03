@@ -7,11 +7,6 @@ Three Jupyter Notebooks are included:
 - Cat image generation with pretrained StyleGAN2 model and CLIP
 - Sneakers image generation with StyleGAN3
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Example Images](#example images)
-
 ## Installation
 
 Google Colab is all you need!
